@@ -1,6 +1,6 @@
 # delcibo_database_server
 
-Создать имя пользователя</br>
+Выполнить команды, подставляя свои значения</br>
 ```
   apt-get install mysql-server
   mysql
